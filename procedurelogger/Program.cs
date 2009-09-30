@@ -9,6 +9,7 @@ namespace procedurelogger
 	{
 		static void Main (string [] args)
 		{
+			//learn how to write xml file
 		}
 	}
 }
